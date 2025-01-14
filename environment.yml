@@ -21,3 +21,4 @@ dependencies:
   - wget=1.20.3
   - aiohttp=3.8.3
   - geoviews=1.9.2
+  - libmamba=1.4.1

@@ -11,3 +11,4 @@ dependencies:
   - python=3.11.4
   - xarray=2023.6.0
   - netcdf4=1.6.5
+  - dask=2023.6.0 
